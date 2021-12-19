@@ -1,6 +1,6 @@
-# Psalms-Scroll-Font-Herodian
+# Inspired-Hebrew-Font
    
-# Font Version 0.1 Alpha | The-Psalms-Scroll at 11QPsA-11QPsB 
+# Font Version 0.0.1 Alpha | Based on Scrolls aound at Qumran Cave 4 and Cave 11 
   
 # This font contain glyphs for realizing the ancient aphabet of Dead Sea Scrolls - Psalms Scrolls found in Cave 11 at Qumran
 that containt the Yod Hey Wav Hey in Paleo-Hebrew Alphabet drawed in this font package in the Phoenician font subset.
