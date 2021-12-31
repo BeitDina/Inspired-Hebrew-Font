@@ -5,7 +5,7 @@
 # This font contain glyphs for realizing the ancient aphabet of Dead Sea Scrolls - Psalms Scrolls found in Cave 11 at Qumran
 that containt the Yod Hey Wav Hey in Paleo-Hebrew Alphabet drawed in this font package in the Phoenician font subset.
   
-![Sample](ScreenShouts/font_004_30122021_065425.jpg)
+![Sample](ScreenShouts/font_005_31122021_061617.jpg)
   
 # License: This font is based on https://github.com/BeitDina/The-Great-Psalms-Scroll-Font/ | https://github.com/BeitDina/Psalms-Scroll-Font-Herodian/
 that is Sil Open Source Font License and this version is released under GNU General Public License v2
